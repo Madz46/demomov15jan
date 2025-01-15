@@ -1,2 +1,2 @@
 # demomov15jan
-This is a 
+This is a movie review app
